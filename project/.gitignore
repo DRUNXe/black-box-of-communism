@@ -1,0 +1,13 @@
+.thumbnails/
+.bin/
+.obj/
+.junk/
+.data/configs/unigine.user
+.launch_debug.bat
+.launch_editor.bat
+.launch_release.bat
+*.obj
+*.tlog
+.bin/editor_log.txt
+.bin/log.txt
+.data/configs/default.user

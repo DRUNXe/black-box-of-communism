@@ -1,0 +1,104 @@
+19:10:05 
+19:10:05 ---- Engine ----
+19:10:05 Version: 2.16.1.0 ver-2.16.1.0-1a30101 Dec 14 2022
+19:10:05 Binary: Windows 64-bit Visual C++ 1900 Release
+19:10:05 Engine features: Direct3D11 OpenAL Microprofile DoubleCoords HalfTexCoords Development
+19:10:05 
+19:10:05 ---- Configs ----
+19:10:05 Loading boot config "C:/Users/student.R3/Desktop/ВДНХ/data/configs/default.boot"...
+19:10:05 Loading user config "C:/Users/student.R3/Desktop/ВДНХ/data/configs/default.user"...
+19:10:05 Using config file "configs/default.config"
+19:10:05 Using boot config file "configs/default.boot"
+19:10:05 Using user config file "configs/default.user"
+19:10:05 Using controls config file "configs/default.controls"
+19:10:05 
+19:10:05 ---- Engine Microprofile ----
+19:10:05 
+19:10:05 ---- GPU Detection ----
+19:10:05 GPU 0: AMD Radeon(TM) Vega 3 Graphics 2032 MB (Active)
+19:10:05 GPU 1: Microsoft Basic Render Driver 7133 MB
+19:10:05 
+19:10:05 ---- System ----
+19:10:05 OS:		Windows 10 (build 17763) 64-bit
+19:10:05 
+19:10:05 CPU:	AMD Athlon 3000G with Radeon Vega Graphics     
+19:10:05 		Frequency: 3493MHz
+19:10:05 		Extensions:  MMX+ SSE SSE2 SSE3 SSSE3 SSE41 SSE42 SSE4A AVX AVX2 HTT
+19:10:05 		Cores:2 Threads:4
+19:10:05 
+19:10:05 		System memory: 14266 MB
+19:10:05 		Sync threads:  3
+19:10:05 		Async threads: 2
+19:10:05 
+19:10:05 GPU:	AMD Radeon(TM) Vega 3 Graphics
+19:10:05 		Video memory:  2032 MB
+19:10:05 
+19:10:05 
+19:10:05 ---- Application ----
+19:10:05 
+19:10:05 ---- System Proxy ----
+19:10:05 
+19:10:05 ---- Render ----
+19:10:05 Loading "dxgi.dll"...
+19:10:05 Direct3D 11 initialization
+19:10:05 Renderer: AMD 2032MB
+19:10:05 Renderer API: Direct3D 11.0
+19:10:05 Maximum texture size:    16384
+19:10:05 Maximum texture units:   16
+19:10:06 
+19:10:06 ---- Load cache textures ----
+19:10:07 Cache textures loaded 792 (1532ms)
+19:10:07 
+19:10:07 Render initialization: 1874ms
+19:10:07 
+19:10:07 
+19:10:07 ---- Filesystem ----
+19:10:07 App path:  C:/Users/student.R3/Desktop/ВДНХ/bin/
+19:10:07 Data path: C:/Users/student.R3/Desktop/ВДНХ/data/
+19:10:07 Save path: C:/Users/student.R3/Desktop/ВДНХ/bin/
+19:10:07 
+19:10:07 Runtimes loaded: 18 29ms
+19:10:07 Filesystem initialization: 246ms
+19:10:07 
+19:10:07 
+19:10:07 ---- Sound ----
+19:10:07 Loading "openal32.dll"...
+19:10:07 Renderer: OpenAL Soft on Динамики (Realtek High Definition Audio)
+19:10:07 OpenAL vendor:   OpenAL Community
+19:10:07 OpenAL renderer: OpenAL Soft
+19:10:07 OpenAL version:  1.1 ALSOFT 1.19.1
+19:10:07 Found AL_EXT_LINEAR_DISTANCE
+19:10:07 Found AL_EXT_OFFSET
+19:10:07 Found ALC_EXT_EFX
+19:10:07 Found ALC_SOFT_HRTF
+19:10:07 Found EFX Filter
+19:10:07 Found EFX Reverb
+19:10:07 Found EAX Reverb
+19:10:07 Found QUAD16 format
+19:10:07 Found 51CHN16 format
+19:10:07 Found 61CHN16 format
+19:10:07 Found 71CHN16 format
+19:10:07 Device enumeration supported
+19:10:07 Maximum sources:         256
+19:10:07 Maximum effect slots:    16
+19:10:07 Maximum auxiliary sends: 2
+19:10:07 Output sampling frequency: 48000hz
+19:10:07 HRTF not enabled!
+19:10:07 
+19:10:07 Sound: openal
+19:10:07 Sound initialization: 50ms
+19:10:07 
+19:10:07 ---- Physics ----
+19:10:07 
+19:10:07 ---- PathFind ----
+19:10:07 
+19:10:07 Loading controls "C:/Users/student.R3/Desktop/ВДНХ/data/configs/default.controls"...
+19:10:07 Loading config "C:/Users/student.R3/Desktop/ВДНХ/data/configs/default.config"...
+19:10:08 
+19:10:08 ---- Materials ----
+19:10:08 Engine base materials loaded: 147 / 147 (88ms)
+19:10:08 Engine materials loaded:      59 / 59 (12ms)
+19:10:08 User base materials loaded:   3 / 3 (42ms)
+19:10:08 User materials loaded:        5 / 5 (17ms)
+19:10:08 Total materials: 214
+19:10:08 
